@@ -1,0 +1,25 @@
+.timer {
+    display: flex;
+    color: #fff;
+}
+
+.timer__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75px;
+    height: 80px;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    margin: 0 5px;
+}
+
+.timer__digit {
+    font-size: 2.4em;
+}
+
+.timer__text {
+    font-size: .7em;
+}
+
